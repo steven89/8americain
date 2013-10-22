@@ -1,4 +1,4 @@
 8americain
 ==========
 
-Jeu de carte en Java.
+Projet universitaire : Jeu de carte en Java.
